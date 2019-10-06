@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Capitulo 1</string>
+    <string name="app_name">Capitulo2</string>
+
+    <string-array name="tipos_notificaciones">
+        <item>Básica</item>
+        <item>Manteniendo navegación</item>
+        <item>Con acciones</item>
+        <item>Texto grande</item>
+    </string-array>
 </resources>

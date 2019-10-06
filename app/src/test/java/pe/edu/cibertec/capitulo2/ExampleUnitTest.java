@@ -1,4 +1,4 @@
-package pe.edu.cibertec.capitulo1;
+package pe.edu.cibertec.capitulo2;
 
 import org.junit.Test;
 

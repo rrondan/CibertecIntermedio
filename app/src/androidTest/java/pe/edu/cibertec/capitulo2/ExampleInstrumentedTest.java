@@ -1,4 +1,4 @@
-package pe.edu.cibertec.capitulo1;
+package pe.edu.cibertec.capitulo2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("pe.edu.cibertec.capitulo1", appContext.getPackageName());
+        assertEquals("pe.edu.cibertec.capitulo2", appContext.getPackageName());
     }
 }
